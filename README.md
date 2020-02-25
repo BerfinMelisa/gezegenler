@@ -1,2 +1,0 @@
-# gezegenler
-Created with CodeSandbox
